@@ -1,0 +1,85 @@
+[
+    {
+        "id": 1,
+        "title": "Summer Analyst",
+        "company": "Goldman Sachs",
+        "startDate": "2025-06",
+        "endDate": "2025-08",
+        "description": [
+            "Designed and implemented a data migration tool to transfer petabyte-scale in-house datasets to Snowflake using Apache Flink.",
+            "Built Java-based microservices with Jersey and integrated frontend components in React for real-time tracking.",
+            "Developed BPMN workflows to improve usability and operational visibility for internal users."
+        ],
+        "technologies": [
+            "Java",
+            "React",
+            "Apache Flink",
+            "Hadoop",
+            "Snowflake"
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Low-Code Automation Developer (Freelance)",
+        "company": "Lysto.io",
+        "startDate": "2025-02",
+        "endDate": "2025-02",
+        "description": [
+            "Automated daily market analysis via n8n workflows integrated with Firecrawl for data extraction.",
+            "Stored data using Supabase and enabled a low-code dashboard for non-technical users."
+        ],
+        "technologies": [
+            "n8n",
+            "Firecrawl",
+            "Supabase",
+            "Tailwind CSS",
+            "Next.js"
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Back-end Engineer",
+        "company": "Better Trader",
+        "startDate": "2025-01",
+        "endDate": "2025-01",
+        "description": [
+            "Built and deployed Flask APIs to analyze cognitive biases in traders using historical data.",
+            "Developed a Streamlit dashboard to visualize psychological patterns and behavioral metrics."
+        ],
+        "technologies": [
+            "Flask",
+            "Streamlit",
+            "Python"
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Prompt Engineer",
+        "company": "NeanderAI",
+        "startDate": "2024-11",
+        "endDate": "2024-11",
+        "description": [
+            "Engineered a Finite State Machine framework driven by LLM prompts to simulate software walkthroughs.",
+            "Created prompt-to-action mappings for seamless transitions in video demonstrations."
+        ],
+        "technologies": [
+            "LangChain",
+            "Node.js"
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Google Summer of Code Contributor",
+        "company": "Inkscape (via Google Summer of Code)",
+        "startDate": "2024-05",
+        "endDate": "2024-08",
+        "description": [
+            "Re-implemented the UX and workflow of the Node Pen Tool to improve usability and reduce latency.",
+            "Optimized Bezier Curve rendering through algorithmic tuning to improve performance."
+        ],
+        "technologies": [
+            "C++",
+            "Gtkmm"
+        ]
+    }
+]

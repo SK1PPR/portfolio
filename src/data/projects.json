@@ -1,0 +1,108 @@
+[
+  { 
+    "title": "Vector DB",
+    "description": "A multimodal vector database engine with KD-Tree and KNN search, built using Rust and RocksDB.",
+    "tags": ["Rust", "RocksDB", "Ratatui"],
+    "demoUrl": "#",
+    "githubUrl": "https://github.com/sdslabs/vector-db"
+  },
+  {   
+    "title": "Game Boy Emulator",
+    "description": "A fully functional Game Boy emulator replicating original console architecture.",
+    "tags": ["Rust", "SDL"],
+    "demoUrl": "#",
+    "githubUrl": "https://github.com/SK1PPR/GB-EM"
+  },
+  {
+    "title": "RISC-V Simulator",
+    "description": "Simulator for 64-bit 5-stage pipelined RISC-V processor with operand forwarding and cache simulation.",
+    "tags": ["C++", "Computer Architecture", "Pipeline Simulation"],
+    "demoUrl": "#",
+    "githubUrl": "https://github.com/SK1PPR/RISCY"
+  },
+  {
+    "title": "SIC-XE Assembler",
+    "description": "Assembler for the SIC/XE architecture with Control Section support and two-pass algorithm.",
+    "tags": ["C++", "Assembler", "Systems Programming"],
+    "demoUrl": "#",
+    "githubUrl": "https://github.com/SK1PPR/SIC-XE-ASSEMBLER"
+  },
+  {
+    "title": "Chip-8 Emulator",
+    "description": "Emulates Chip-8 virtual machine with sound and memory emulation.",
+    "tags": ["C++", "SDL2", "Emulator"],
+    "demoUrl": "#",
+    "githubUrl": "https://github.com/SK1PPR/Chip8-Emulator"
+  },
+  {
+    "title": "Torrent Client",
+    "description": "Peer-to-peer torrent client with custom B-encode decoder and networking.",
+    "tags": ["C++", "Networking", "P2P"],
+    "demoUrl": "#",
+    "githubUrl": "https://github.com/SK1PPR/torrent-client"
+  },
+  {
+    "title": "Unix Shell (WIP)",
+    "description": "A Unix-like shell in Rust with job control, piping, and redirection using low-level syscalls.",
+    "tags": ["Rust", "Termion", "nix", "Shell"],
+    "demoUrl": "#",
+    "githubUrl": "https://github.com/SK1PPR/unix-shell"
+  },
+  {
+    "title": "HecText",
+    "description": "Terminal-based text editor written in Rust with efficient rendering under 1k LOC.",
+    "tags": ["Rust", "Termion", "Text Editor"],
+    "demoUrl": "#",
+    "githubUrl": "https://github.com/SK1PPR/hectext"
+  },
+  {
+    "title": "Saviour Supreme",
+    "description": "LAN-based file sharing app over UDP with encryption and rate limiting.",
+    "tags": ["Python", "PyQt", "UDP"],
+    "demoUrl": "#",
+    "githubUrl": "https://github.com/SK1PPR/Saviour-Supreme"
+  },
+  {
+    "title": "MediaWave",
+    "description": "Media player with playlists, watch party feature, and real-time chat via ngrok.",
+    "tags": ["Python", "PyQt", "ngrok"],
+    "demoUrl": "#",
+    "githubUrl": "https://github.com/SK1PPR/OOAD-Project"
+  },
+  {
+    "title": "F1 Game",
+    "description": "Multiplayer racing game using Unreal Engine with Voronoi track generation.",
+    "tags": ["C++", "Unreal Engine", "Game Physics"],
+    "demoUrl": "#",
+    "githubUrl": "https://github.com/SK1PPR/F1-SIM"
+  },
+  {
+    "id": 12,
+    "title": "Incomplete",
+    "description": "2D puzzle platformer using shader reflections, awarded Gold in Inter-IIT.",
+    "tags": ["C#", "Unity", "Shader Graph"],
+    "demoUrl": "#",
+    "githubUrl": "https://github.com/SK1PPR/Syntax-Error"
+  },
+  {
+    "title": "Hell-Towers",
+    "description": "Multiplayer tower defense bullet hell game built in Unity.",
+    "tags": ["C#", "Unity", "Multiplayer"],
+    "demoUrl": "#",
+    "githubUrl": "https://github.com/sdswoc/hell-towers"
+  },
+  {
+    "title": "Dungeon Dudes",
+    "description": "Turn-based puzzle game built in Godot for IB Personal Project.",
+    "tags": ["Godot", "GDScript", "Puzzle Game"],
+    "demoUrl": "#",
+    "githubUrl": "https://github.com/SK1PPR/Dungeon-Dudes"
+  },
+  {
+    "title": "Trail",
+    "description": "3D local multiplayer game with custom mesh rendering and physics.",
+    "tags": ["C#", "Unity", "Game Physics"],
+    "demoUrl": "#",
+    "githubUrl": "https://github.com/SK1PPR/Trail"
+  }
+]

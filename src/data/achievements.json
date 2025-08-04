@@ -1,0 +1,56 @@
+[
+  {
+    "title": "Inter-IIT Tech Meet Gold Medal",
+    "description": "Won Gold Medal at Inter-IIT Tech Meet 2023 in the IGDC problem statement for the game 'Incomplete'.",
+    "date": "2023",
+    "category": "Competition"
+  },
+  {
+    "title": "Inter-IIT Tech Meet Bronze Medal",
+    "description": "Won Bronze Medal as PS-Lead at Inter-IIT Tech Meet 2024 in the IGDC problem statement.",
+    "date": "2024",
+    "category": "Competition"
+  },
+  {
+    "title": "Global Rank 8 - CodeChef Starters 126",
+    "description": "Achieved Global Rank 8 in CodeChef Starters 126 coding contest.",
+    "date": "2024",
+    "category": "Competition"
+  },
+  {
+    "title": "Global Rank 549 - Codeforces Round 937",
+    "description": "Achieved Global Rank 549 in Codeforces Round 937 with a rating of 1592.",
+    "date": "2024",
+    "category": "Competition"
+  },
+  {
+    "title": "Winter of Code - SDSLabs",
+    "description": "Completed Winter of Code program organized by SDSLabs.",
+    "date": "2023",
+    "category": "Completion"
+  },
+  {
+    "title": "JEE Advanced - Rank 337",
+    "description": "Secured AIR 337 in JEE Advanced 2022 among 10,000 selected candidates.",
+    "date": "2022",
+    "category": "Competition"
+  },
+  {
+    "title": "JEE Mains - Rank 1758",
+    "description": "Secured AIR 1758 in JEE Mains 2022 among over 1 million candidates.",
+    "date": "2022",
+    "category": "Competition"
+  },
+  {
+    "title": "Developer at SDSLabs",
+    "description": "Contributed to internal and open-source tech applications; organized hackathons, lectures, and CTFs on campus.",
+    "date": "2023 – Present",
+    "category": "Extracurricular"
+  },
+  {
+    "title": "Member of PAG (Programming and Algorithms Group)",
+    "description": "Organized coding contests, curated ICPC problems, and mentored peers in competitive programming.",
+    "date": "2023",
+    "category": "Extracurricular"
+  }
+]
