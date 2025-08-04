@@ -23,7 +23,7 @@ export const BlogsSection = () => {
           <a
             className="cosmic-button w-fit flex items-center mx-auto gap-2"
             target="_blank"
-            href="https://hashnode.dev/@yourusername"
+            href="https://skippr.hashnode.dev/"
             rel="noopener noreferrer"
           >
             Check Out My Blogs <ArrowRight size={16} />
